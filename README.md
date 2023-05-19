@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waliulrayhan&label=Profile%20views&color=0e75b6&style=flat" alt="waliulrayhan" /> </p>
+            
 <h3><p align="center">Hello, I'm Md. Waliul Islam Rayhan!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p></h3>
 
 <p align="center" ><img 
@@ -6,16 +8,13 @@
 
 <p align="center">I'm a student of Computer Science and Engineering at Jagannath University, Dhaka-1100</p><br/>
 
+<p align="left"> <a href="https://twitter.com/Waliul_Rayhan/" target="blank"><img src="https://img.shields.io/twitter/follow/Waliul_Rayhan?logo=twitter&style=for-the-badge" alt="Waliul_Rayhan" /></a> </p>
 
-<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h3></summary>
-
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h3></summary>
 <p align = "center">
- 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Waliul_Rayhan/)
+<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Waliul_Rayhan/) -->
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rayhancsejnu/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Rayhan.CSE.JnU/)
-
 </p>
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
