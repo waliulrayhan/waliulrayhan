@@ -10,9 +10,13 @@
 
 <p align="left"> <a href="https://twitter.com/Waliul_Rayhan/" target="blank"><img src="https://img.shields.io/twitter/follow/Waliul_Rayhan?logo=twitter&style=for-the-badge" alt="Waliul_Rayhan" /></a> </p>
 
-<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> To connect with me</h3></summary>
+<summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h3></summary>
+
 <p align = "center">
+ 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rayhancsejnu/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/md.waliul_islam_rayhan/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Rayhan.CSE.JnU/)
 </p>
 
