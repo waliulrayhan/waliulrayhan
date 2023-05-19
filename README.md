@@ -35,13 +35,13 @@
 <p><img align=""
         src="https://github-readme-stats.vercel.app/api/top-langs?username=waliulrayhan&show_icons=true&locale=en&layout=compact"
         alt="waliulrayhan" /></p>
-            
-<p><img align=""
-        src="https://github-readme-streak-stats.herokuapp.com/?user=waliulrayhan&"
-        alt="waliulrayhan" /></p>
 
 <p><img align=""
         src="https://github-readme-stats.vercel.app/api?username=waliulrayhan&show_icons=true&locale=en"
+        alt="waliulrayhan" /></p>
+        
+<p><img align=""
+        src="https://github-readme-streak-stats.herokuapp.com/?user=waliulrayhan&"
         alt="waliulrayhan" /></p>
 
 
