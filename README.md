@@ -8,6 +8,15 @@
 
 <p align="center">I'm a student of Computer Science and Engineering at Jagannath University, Dhaka-1100</p><br/>
 
+   - 🔭 I’m currently working on [ASP .NET Core](https://github.com/waliulrayhan?tab=repositories)
+
+   - 🌱 I’m currently learning **Web Development**
+
+   - 👨‍💻 All of my projects are available at
+    [github.com/waliulrayhan](https://github.com/waliulrayhan?tab=repositories)
+
+   - 📫 How to reach me **mdwaliulislamrayhan@gmail.com**
+
 <p align="left"> <a href="https://twitter.com/Waliul_Rayhan/" target="blank"><img src="https://img.shields.io/twitter/follow/Waliul_Rayhan?logo=twitter&style=for-the-badge" alt="Waliul_Rayhan" /></a> </p>
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
