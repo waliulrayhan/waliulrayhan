@@ -32,12 +32,16 @@
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
                 width="28" /> My Github Status</h3> </summary>
 
-<br>
+   <p><img align="left"
+            src="https://github-readme-stats.vercel.app/api/top-langs?username=waliulrayhan&show_icons=true&locale=en&layout=compact"
+            alt="waliulrayhan" /></p>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=waliulrayhan&show_icons=true&count_private=true&theme=vue&hide=issues&line_height=32">
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=waliulrayhan&">
-</p>
+   <p>&nbsp;<img align="center"
+            src="https://github-readme-stats.vercel.app/api?username=waliulrayhan&show_icons=true&locale=en"
+            alt="waliulrayhan" /></p>
+
+   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waliulrayhan&"
+            alt="waliulrayhan" /></p>
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" align="center"
                 width="28" /> My Tools</h3></summary>
