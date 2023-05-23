@@ -6,7 +6,7 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="30%"/></p>
 
 
-<p align="center">I'm a student of Computer Science and Engineering at Jagannath University, Dhaka-1100</p><br/>
+<p align="center">I'm a student of Computer Science and Engineering at Jagannath University, Dhaka-1100.</p><br/>
 
    - 🔭 I’m currently working on [ASP .NET Core](https://github.com/waliulrayhan?tab=repositories)
 
