@@ -17,7 +17,7 @@
 
    - 📫 How to reach me **mdwaliulislamrayhan@gmail.com**
 
-<p align="left"> <a href="https://twitter.com/Waliul_Rayhan/" target="blank"><img src="https://img.shields.io/twitter/follow/Waliul_Rayhan?logo=twitter&style=for-the-badge" alt="Waliul_Rayhan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/waliulrayhan/" target="blank"><img src="https://img.shields.io/twitter/follow/waliulrayhan?logo=twitter&style=for-the-badge" alt="waliulrayhan" /></a> </p>
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
                 width="28" /> To connect with me</h3></summary>
