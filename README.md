@@ -24,9 +24,9 @@
 
 <p align = "center">
  
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rayhancsejnu/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/md.waliul_islam_rayhan/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/Rayhan.CSE.JnU/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/waliulrayhan/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/waliulrayhan/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/waliulrayhan/)
 </p>
 
 <summary><h3><img src="https://emojis.slackmojis.com/emojis/images/1471045852/841/hero.gif?1471045852" align="center"
