@@ -8,7 +8,7 @@
 
 <p align="center">I'm a student of Computer Science and Engineering at Jagannath University, Dhaka-1100.</p><br/>
 
-   - 🔭 I’m currently working on [ASP .NET Core](https://github.com/waliulrayhan?tab=repositories)
+   - 🔭 I’m enthusiastically exploring technology and enjoy learning new things.
 
    - 🌱 I’m currently learning **Web Development**
 
@@ -64,3 +64,44 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" />  
 </div>
+
+## AWARDS
+
+|                       Competition Name                                                |         Project Name          |                            Achievement                                    |
+| :-----------------------------------------------------------------------------------: | :---------------------------: | :-----------------------------------------------------------------------: |
+|                             UGC Innovation Showcasing 2024                            |     [Go Bangladesh][goBd]     |                        [Champion][ugc_champion]                           |
+|    National Conference on Robotics & IoT (Robot and Project Exhibition) - Bangamata Sheikh Fojilatunnesa Mujib Science & Technology University      | [e-Desk][edesk]  | [1st Runner-Up][bsfmstu] |
+|                    MBSTU Robo Tech Olympiad 2023 (Idea Presentation)                  |        [e-Desk][edesk]        |                          [Champion][mbstu-idea]                           |
+|                MBSTU Robo Tech Olympiad 2023 (Project Showcase, Senior)               |      [Go Bangladesh][goBd]    |                         [Champion][mbstu-project]                         |
+
+
+## Events & Competitions Participated In
+
+|                                          Description                                     |      Project Title               |            Link               |
+| :--------------------------------------------------------------------------------------: | :------------------------------: | :---------------------------: |
+|                    Nasa Space App Challenge 2024 (Dhaka Regional)                        |       Smart Grid Management      |      [View Project][sgm]      |
+|   CEFALO ITVerse 2023 - Institute of Information Technology (IIT), University of Dhaka   |             e-Desk               |     [View Project][edesk]     |
+|                     JnU Intra University Programming Contest 2023                        |        Programming Contest       |    [See Certificate][jnupc]   |
+|              Jagannath University IT Society (Apps Showcasing Competition)               |          Coinbank Wallet         |    [View Project][coinbank]   |
+|                                     Creative IT Institute                                |      Training on Blockchain      | [See Certificate][creativeIT] |
+|            ICPC Asia Dhaka Regional Site Online Preliminary Contest 2020-21              |        Programming Contest       |    [See Certificate][icpc1]   |
+|            ICPC Asia Dhaka Regional Site Online Preliminary Contest 2021-22              |        Programming Contest       |    [See Certificate][icpc2]   |
+|            ICPC Asia Dhaka Regional Site Online Preliminary Contest 2022-23              |        Programming Contest       |    [See Certificate][icpc3]   | 
+|            ICPC Asia Dhaka Regional Site Online Preliminary Contest 2023-24              |        Programming Contest       |    [See Certificate][icpc4]   |
+
+<!-- links -->
+[goBd]: #
+[ugc_champion]: #
+[edesk]: #
+[bsfmstu]: #
+[mbstu-idea]: #
+[mbstu-project]: #
+
+[sgm]: https://github.com/waliulrayhan/SGM-Android-App
+[jnupc]: #
+[coinbank]: #
+[creativeIT]: #
+[icpc1]: #
+[icpc2]: #
+[icpc3]: #
+[icpc4]: #
